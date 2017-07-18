@@ -1,3 +1,5 @@
 Hello world!
 
-I am a walrus.
+I am a walrus. 
+
+Elephants are nice animals.
